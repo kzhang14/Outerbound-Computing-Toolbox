@@ -1,0 +1,76 @@
+
+Log started (V12.8.0.0) Thu Feb 28 12:16:29 2019
+
+
+Problem 'outputLP.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             5.000000
+
+Dual simplex - Optimal:  Objective =  5.0000000000e+00
+Solution time =    0.00 sec.  Iterations = 2 (0)
+Deterministic time = 0.00 ticks  (2.99 ticks/sec)
+
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  COST
+Selected RHS        name:  RHS1
+
+Problem 'outputMPS.mps' read.
+Read time = 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             5.000000
+
+Dual simplex - Optimal:  Objective =  5.0000000000e+00
+Solution time =    0.00 sec.  Iterations = 2 (0)
+Deterministic time = 0.00 ticks  (2.99 ticks/sec)
+
+
+Log started (V12.8.0.0) Mon Mar  4 11:05:13 2019
+
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  COST
+Selected RHS        name:  RHS1
+
+Problem 'outputMPS.mps' read.
+Read time = 0.02 sec. (0.00 ticks)
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             5.000000
+
+Dual simplex - Optimal:  Objective =  5.0000000000e+00
+Solution time =    0.02 sec.  Iterations = 2 (0)
+Deterministic time = 0.00 ticks  (0.20 ticks/sec)
+
+
+Log started (V12.8.0.0) Mon Mar  4 11:55:57 2019
+
+
+Problem 'outputLP.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             5.000000
+
+Dual simplex - Optimal:  Objective =  5.0000000000e+00
+Solution time =    0.00 sec.  Iterations = 2 (0)
+Deterministic time = 0.00 ticks  (2.99 ticks/sec)
+
+
+Log started (V12.8.0.0) Sun Mar 24 15:55:19 2019
+
